@@ -9,7 +9,7 @@ está orientada a testers que buscan optimizar los tiempos al momento de tener q
 1. El principal objetivo del programa es poder generar casos de pruebas automatizados utilizando la herramienta de GitHub Copilot.
 2. Aprenderemos a utilizar la herramienta para generar casos de pruebas automatizados y a validar las respuestas generadas por la IA.
 3. Utilizaremos el proyecto base de Cypress y Cucumber para implementar los casos de pruebas generados por Copilot.
-4. Elaboraremos promtms utlizando haciendo refencia a toda una solución: @workspace o a un archivo en especifico #file.
+4. Elaboraremos promtms utlizando haciendo refencia a toda una solución: @workspace o a un archivo en especifico #file
 
 
 ## Políticas de Branching para resolver los ejercicios del programa Adoption Copilot
